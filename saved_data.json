@@ -1,0 +1,3 @@
+{"initial_value": "50", "result": "Result: 24.0", "fields": [{"name": "Tea", "amount": "10"}, {"name": "Coffee", "amount": "16"}]}
+{"initial_value": "100", "result": "Result: 20.0", "fields": [{"name": "Food", "amount": "40"}, {"name": "Snack", "amount": "40"}]}
+{"initial_value": "100", "result": "Result: 10.0", "fields": [{"name": "gf", "amount": "56"}, {"name": "hj", "amount": "34"}]}
